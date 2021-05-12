@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: f29308ac53e94f84b8ef6ab0182a2ba9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_0
+  - first:
+      213: 21300002
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_1
+  - first:
+      213: 21300004
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_3
+  - first:
+      213: 21300006
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_4
+  - first:
+      213: 21300008
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_5
+  - first:
+      213: 21300010
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_6
+  - first:
+      213: 21300012
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_7
+  - first:
+      213: 21300014
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_8
+  - first:
+      213: 21300016
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_9
+  - first:
+      213: 21300018
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_10
+  - first:
+      213: 21300020
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_11
+  - first:
+      213: 21300022
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_12
+  - first:
+      213: 21300024
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_13
+  - first:
+      213: 21300026
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_14
+  - first:
+      213: 21300028
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_15
+  - first:
+      213: 21300030
+    second: Goblin Morto, bebida, Numeros, Pirate Dead_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 208
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3be067508d9b4f9b8d48ce0e2b601
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 164
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce65c5c6e4649d34dbd8fb573ca78e62
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 158
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d90c61bcfa444aa62a72848a43ea4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 160
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b35d89044faac43b0f24d8f321843d
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 159
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6064ca85a274100418f67cac6be54be2
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 159
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253a5f91a4d6bb459018e89bd26e634
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 155
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3f5defbb20981459af2d43ffaf8195
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 156
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786e434e1ff6b924eadd0cf979ffdc5c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 154
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d078b0c121c747bf46bb210be1c23
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 156
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c2d3cc5b79fd4e87ff57cf50173b0
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8a2a1e2db8df04c83ff7e996dbccb3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 112
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990263fb3288c4240b2f8c462412fa2f
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e74fb67158e35e42882209f5c9f9ca9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d538fd0aa2c104cbb8d763481a1e76
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a6ed814301ac04fb7d84c5a347f490
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Morto, bebida, Numeros, Pirate Dead_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a395e6d1c91649bfc4b4eb2433926
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7f195bf99bcb15f468710e7bb2d72a74
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
